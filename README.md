@@ -1,3 +1,6 @@
+DEVs: Carlos Eduardo da Mata Coelho
+      João Vitor dos Santos Nunes
+
 Linhas de comando usadas no gitbash:
 ![print1](https://github.com/user-attachments/assets/d41a1ac3-e6c7-4718-b7b9-d1b21ef07bc8)
 

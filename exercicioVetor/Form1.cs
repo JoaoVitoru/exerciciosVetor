@@ -30,5 +30,10 @@ namespace exercicioVetor
             frmexercicio2 menu = new frmexercicio2();
             menu.Show();
         }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

@@ -112,7 +112,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1264, 681);
             this.Controls.Add(this.lblnotarest);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.btnvoltar);
@@ -121,6 +121,7 @@
             this.Controls.Add(this.btninserir);
             this.Controls.Add(this.txtnota);
             this.Name = "frmexercicio2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Exercício 2";
             this.ResumeLayout(false);
             this.PerformLayout();
