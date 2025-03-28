@@ -1,0 +1,12 @@
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.exe.config
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.exe
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.pdb
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.exe
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.pdb
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.frmmenu.resources
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.frmExercicio1.resources
+C:\Users\joaov\OneDrive\Documents\ESTUDO\M-TEC\1ds\DS\exerciciosVetor\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.frmexercicio2.resources
