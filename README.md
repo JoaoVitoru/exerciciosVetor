@@ -1,4 +1,4 @@
-DEVs: Carlos Eduardo da Mata Coelho
+DEVs: Carlos Eduardo da Mata Coelho;
       João Vitor dos Santos Nunes
 
 Linhas de comando usadas no gitbash:
